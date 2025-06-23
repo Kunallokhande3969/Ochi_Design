@@ -1,12 +1,59 @@
-# React + Vite
+# OCHICLONE – Animated UI/UX Clone of Ochi.design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**OCHI_DESIGN ** is a pixel-perfect animated clone of [Ochi.design](https://ochi.design/), built using modern frontend technologies. It showcases smooth scroll animations, cursor-based interactivity, and modern visual aesthetics — inspired by cutting-edge design practices in the modern world.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎯 Smooth scroll-triggered animations using **Framer Motion**
+- 👁️ Eye-tracking text and custom cursor
+- 🧩 Interactive hover cards and animated hero section
+- 📱 Fully responsive layout with **mobile-first design**
+- 🎨 Built to match **modern visual design principles**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **Framework**: React.js
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Deployment**: Vercel
+
+---
+
+## 🧪 How to Run Locally
+
+1. Clone the repository
+
+git clone https://github.com/yourusername/ochiclone.git
+cd ochiclone
+
+## Install dependencies
+
+npm install
+
+## Run the development server
+
+npm run dev
+
+## Open in browser:
+
+http://localhost:3000
+
+## 📁 Folder Structure
+
+ochiclone/
+├── components/
+├── pages/
+├── styles/
+├── public/
+└── app.js or index.js
+
+## 👨‍💻 Author
+
+Your Name
+
+GitHub: https://github.com/Kunallokhande3969
+LinkedIn:https://www.linkedin.com/in/kunal-lokhande-70464b290
