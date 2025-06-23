@@ -1,4 +1,4 @@
-# OCHICLONE – Animated UI/UX Clone of Ochi.design
+# OCHIDESIGN – Animated UI/UX Clone of Ochi.design
 
 **OCHI_DESIGN ** is a pixel-perfect animated clone of [Ochi.design](https://ochi.design/), built using modern frontend technologies. It showcases smooth scroll animations, cursor-based interactivity, and modern visual aesthetics — inspired by cutting-edge design practices in the modern world.
 
